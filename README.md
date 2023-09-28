@@ -2,6 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=TAEIL%20KIM&color=3FB5FF&fontColor=FFF&animation=twinkling&fontAlignY=55)
 
+<br>
+
 ![seumomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seumomo&show_icons=true&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seumomo&layout=compact&theme=react) 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xo0207)](https://solved.ac/xo0207)
